@@ -1,3 +1,5 @@
+![TexLink](assets/cover.png)
+
 # TexLink — Blender ↔ Substance Painter
 
 *Language: **English** · [Italiano](README.it.md)*

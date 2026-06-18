@@ -1,0 +1,28 @@
+<svg width="1280" height="678" viewBox="0 0 680 360" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>TexLink cover</title>
+<desc>TexLink title with tagline and an orange mesh node linked to a teal texture node.</desc>
+<rect x="0" y="0" width="680" height="360" fill="#1E242C"/>
+<rect x="0" y="0" width="680" height="6" fill="#E8801A"/>
+<rect x="340" y="0" width="340" height="6" fill="#15B8A6"/>
+<text x="56" y="150" font-family="Segoe UI, Arial, sans-serif" font-size="62" font-weight="600" fill="#FFFFFF">TexLink</text>
+<rect x="58" y="170" width="104" height="6" rx="3" fill="#E8801A"/>
+<rect x="162" y="170" width="60" height="6" rx="3" fill="#15B8A6"/>
+<text x="58" y="214" font-family="Segoe UI, Arial, sans-serif" font-size="23" font-weight="400" fill="#9FB0BD">Blender &#8596; Substance Painter</text>
+<text x="58" y="248" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" fill="#6E7C89">Live filesystem texture link &#183; free &#183; GPL-3.0</text>
+<rect x="488" y="166" width="68" height="30" rx="15" fill="#EEF1F4"/>
+<rect x="424" y="134" width="92" height="92" rx="22" fill="#E8801A"/>
+<g stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" fill="none">
+<rect x="450" y="172" width="34" height="34" rx="2"/>
+<path d="M450 172 L462 158 L496 158 L484 172"/>
+<path d="M484 172 L496 158 L496 192 L484 206"/>
+</g>
+<rect x="528" y="134" width="92" height="92" rx="22" fill="#15B8A6"/>
+<g fill="#FFFFFF">
+<rect x="552" y="152" width="26" height="26" rx="2"/>
+<rect x="578" y="178" width="26" height="26" rx="2"/>
+</g>
+<g fill="#0C5048">
+<rect x="578" y="152" width="26" height="26" rx="2"/>
+<rect x="552" y="178" width="26" height="26" rx="2"/>
+</g>
+</svg>

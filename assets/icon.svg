@@ -1,0 +1,22 @@
+<svg width="512" height="512" viewBox="0 0 680 680" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>TexLink icon</title>
+<desc>Orange mesh-cube node linked to a teal texture-swatch node on a dark rounded square.</desc>
+<rect x="80" y="80" width="520" height="520" rx="124" fill="#222A33"/>
+<rect x="80" y="80" width="520" height="520" rx="124" fill="none" stroke="#2E3845" stroke-width="2"/>
+<rect x="292" y="320" width="96" height="40" rx="20" fill="#EEF1F4"/>
+<rect x="188" y="258" width="150" height="164" rx="36" fill="#E8801A"/>
+<g stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" fill="none">
+<rect x="232" y="332" width="52" height="52" rx="3"/>
+<path d="M232 332 L250 312 L302 312 L284 332"/>
+<path d="M284 332 L302 312 L302 364 L284 384"/>
+</g>
+<rect x="342" y="258" width="150" height="164" rx="36" fill="#15B8A6"/>
+<g fill="#FFFFFF">
+<rect x="386" y="306" width="35" height="35" rx="2"/>
+<rect x="421" y="341" width="35" height="35" rx="2"/>
+</g>
+<g fill="#0C5048">
+<rect x="421" y="306" width="35" height="35" rx="2"/>
+<rect x="386" y="341" width="35" height="35" rx="2"/>
+</g>
+</svg>
