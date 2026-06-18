@@ -14,6 +14,18 @@ mesh with one click, paint in SP, and Blender automatically updates the material
 
 ---
 
+## Demo & screenshots
+
+▶️ **[Watch the demo video](https://github.com/Rox3DA/texlink/releases/download/v1.1.0/texlink-demo.mp4)**
+
+| Blender | Substance Painter |
+|---------|-------------------|
+| ![TexLink panel in Blender](assets/screenshot-blender.png) | ![Painting with the live-link plugin](assets/screenshot-substance.png) |
+
+*Left: the TexLink panel in Blender (send mesh, sync textures, update geometry). Right: painting in Substance Painter with the bundled live-link plugin exporting back to Blender.*
+
+---
+
 ## Installation
 
 ### 1) Blender add-on
