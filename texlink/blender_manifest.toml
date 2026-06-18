@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "texlink"
+version = "1.1.0"
+name = "TexLink"
+tagline = "Live link between Blender and Substance Painter via filesystem"
+maintainer = "Rocco Brugioni"
+type = "add-on"
+
+tags = ["Pipeline", "Import-Export"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+# L'addon esporta FBX e legge/scrive texture e file di configurazione su disco.
+[permissions]
+files = "Export FBX, read/write textures and the live-link config file"
